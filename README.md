@@ -13,6 +13,8 @@ $robot google.robot
 
 ## Step 2 :: Browser UI Automation with SeleniumLibrary
 
+* [SeleniumLibrary Keyword](http://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
+
 ## Step 3 :: Using Tags
 
 How to run ?
@@ -25,3 +27,8 @@ How to run ?
 ```
 $robot -v NAME:VALUE google.robot
 ```
+
+
+
+## Reference Websites
+* [Robot Framework User Guide](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
